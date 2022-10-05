@@ -5,9 +5,9 @@
 I'm a Software Engineer living in Argentina, that enjoys developing Backend projects with large escalability and resilience and also open source projects for community implementations (such as neovim plugins). I'm also currently working on a youtube channel, hoping not just for its success but also to be helpful to developers all around the world
 
    <p align="left">
-      <a href="https://www.youtube.com/channel/UCcdCjfw4HBgPceg7PYgeY6Q?sub_confirmation=1">
+      <a href="https://www.youtube.com/channel/UCcdCjfw4HBgPceg7PYgeY6Q?sub_confirmation=1" target="_blank" rel="noopener noreferrer">
          <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCcdCjfw4HBgPceg7PYgeY6Q?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
-      <a href="https://www.youtube.com/channel/UCcdCjfw4HBgPceg7PYgeY6Q">
+      <a href="https://www.youtube.com/channel/UCcdCjfw4HBgPceg7PYgeY6Q" target="_blank" rel="noopener noreferrer">
          <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCcdCjfw4HBgPceg7PYgeY6Q?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
       <a href="https://github.com/NachoNievaG?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/NachoNievaG?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>

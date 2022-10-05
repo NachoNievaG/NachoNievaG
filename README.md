@@ -41,6 +41,7 @@ I'm a Software Engineer living in Argentina, that enjoys developing Backend proj
 ### 📺 Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
+[![Mi primer laptop para programar!](https://ytcards.demolab.com/?id=z1XtNC3pvw0&title=Mi+primer+laptop+para+programar%21&timestamp=1664145301&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Mi primer laptop para programar!")](https://www.youtube.com/watch?v=z1XtNC3pvw0)
 <!-- END YOUTUBE-CARDS -->
 
 [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/channel/UCcdCjfw4HBgPceg7PYgeY6Q?sub_confirmation=1)

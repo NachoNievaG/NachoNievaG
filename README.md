@@ -60,5 +60,7 @@ I'm a Software Engineer living in Argentina, that enjoys developing Backend proj
  <summary><h3>👨‍💻 Nacho's Coding Journey</h3></summary>
     I started my carrer at the age of 15, when my highschool teacher told me about something called "Algorithms". This Algorithms were mathematical applications to solve a specific problem. With my first Qbasic solving program i said to myself that this was the path that i was seeking. From then, i started digging in Visual Basic and asp trying to understand what a DB was. And finally after a few years of practice, i managed to land my first engineer job, in which I used php and javascript for a while. I had several jobs, every single one, a harder task than the one before that, and now all that experience lead me here. Currently I'm a Head of Backend Engineering hoping to discover new tools to develop. 
     Wish you well :) 
-  
+    <h3>Dev Card</h3>
+    <a href="https://app.daily.dev/NachoNieva"><img src="https://api.daily.dev/devcards/f32d6398747443cb8e8ff7ad4943ca77.png?r=4eo" width="400" alt="Nacho Nieva's Dev Card"/></a>
+ 
 [youtube]: https://youtube.com/channel/UCcdCjfw4HBgPceg7PYgeY6Q
